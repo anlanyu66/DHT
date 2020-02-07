@@ -10,3 +10,4 @@ DHT_client
 DHT_server
 .idea
 .idea/
+cmake_install.cmake
