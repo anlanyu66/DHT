@@ -8,3 +8,5 @@ cmake-build-debug
 Makefile
 DHT_client
 DHT_server
+.idea
+.idea/
