@@ -18,7 +18,6 @@
 #define size 100000
 #define NOVAL 0XFFFFFFFF
 #define LOCK_NUM 100
-#define NULL 0
 
 template <typename T>
 std::map<int,T> hash_table;

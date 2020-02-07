@@ -1,0 +1,1 @@
+/usr/bin/c++    -pthread CMakeFiles/DHT.dir/client.cpp.o CMakeFiles/DHT.dir/server.cpp.o  -o DHT 
