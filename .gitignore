@@ -1,6 +1,10 @@
 CMakeCache.txt
 CMakeFiles/
+CMakeFiles
 cmake-build-debug/
+cmake-build-debug
 .DS_Store/
 .DS_Store
 Makefile
+DHT_client
+DHT_server
